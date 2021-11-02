@@ -1,0 +1,17 @@
+@media screen and (max-width:810px){
+    header{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        height: 100px;
+    }
+
+    header nav a{
+        padding-bottom: 10px;
+    }
+
+    .botao{
+        margin-bottom: 5px;
+        width: 200px;
+    }
+}
